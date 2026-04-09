@@ -36,13 +36,19 @@ OctoAcme's project management approach is grounded in five values:
 
 ## Core Roles
 
+> For full role definitions including responsibilities, goals, typical communication, and interaction with other roles, see the [Roles & Personas](octoacme-roles-and-personas.md) document.
+
 | Role | Responsibilities |
 |---|---|
 | **Project Manager (PM)** | Coordinates delivery, schedules, risk, and communications; maintains project board and status reports |
 | **Product Manager (PdM)** | Defines outcomes, prioritizes the roadmap and backlog, measures success metrics |
 | **Developers** | Implement features, write tests, participate in design and code reviews, estimate work |
-| **QA / Testing** | Validate quality, verify acceptance criteria, run integration and smoke tests |
-| **Stakeholders** | Provide inputs, sign off on deliverables, receive regular status updates |
+| **Engineering Manager** | Leads and supports the engineering team; manages capacity, growth, and escalations |
+| **Design / UX** | Defines user experience, interaction patterns, wireframes, and visual designs |
+| **QA Lead / Quality Engineer** | Owns quality strategy, test coverage, defect triage, and release sign-off |
+| **Tech Lead / Architect** | Sets technical direction, ensures architectural soundness, and guides engineering decisions |
+| **Support / Customer Success** | Manages customer-facing communications, escalates production issues, and drives adoption |
+| **Sponsor / Executive Stakeholder** | Provides executive sponsorship, funding, strategic alignment, and go/no-go approval |
 
 ---
 

@@ -14,11 +14,17 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
+> For full role definitions, see [Roles & Personas](octoacme-roles-and-personas.md).
+
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Engineering Manager: leads engineering team capacity, growth, and organizational escalations.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- Design / UX: define user experience, wireframes, and interaction patterns.
+- QA Lead / Quality Engineer: own quality strategy, test coverage, and release sign-off.
+- Tech Lead / Architect: set technical direction and ensure architectural soundness.
+- Support / Customer Success: manage customer communications, escalations, and adoption.
+- Sponsor / Executive Stakeholder: provide executive sponsorship, funding, and go/no-go decisions.
 
 ## Key Artifacts
 - Project Charter / One-pager

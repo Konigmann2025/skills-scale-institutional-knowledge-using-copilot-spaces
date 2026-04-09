@@ -3,6 +3,8 @@
 ## Purpose
 Define the initial steps to validate and authorize work, align stakeholders, and create a lightweight plan.
 
+> **Role guidance:** See [Roles & Personas](octoacme-roles-and-personas.md) to identify who owns each initiation activity. Key roles at this phase: **Project Manager**, **Product Manager**, **Sponsor / Executive Stakeholder**, and **Engineering Manager**.
+
 ## When to use
 Whenever a new project idea or feature proposal is ready to be explored.
 
@@ -30,9 +32,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Proposed team / roles:
 
 ## Initiation Checklist
-- [ ] One-pager completed and reviewed by Product Lead
-- [ ] Sponsor / Stakeholder alignment (email or meeting)
-- [ ] Decision: Approve to move into planning?
+- [ ] One-pager completed and reviewed by Product Manager
+- [ ] Sponsor / Executive Stakeholder alignment confirmed (email or meeting)
+- [ ] All relevant roles identified (see [Roles & Personas](octoacme-roles-and-personas.md)): Project Manager, Product Manager, Engineering Manager, Tech Lead / Architect, Design / UX, QA Lead, Support / Customer Success assigned or noted as TBD
+- [ ] Decision: Approve to move into planning? (Sponsor sign-off required)
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
 
@@ -41,3 +44,4 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+- Sponsor / Executive Stakeholder has given formal go/no-go approval
