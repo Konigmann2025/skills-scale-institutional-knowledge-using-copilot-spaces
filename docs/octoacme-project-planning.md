@@ -3,6 +3,8 @@
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
+> **Role guidance:** See [Roles & Personas](octoacme-roles-and-personas.md) for responsibilities at this phase. Key roles: **Project Manager** (facilitates), **Product Manager** (owns backlog), **Tech Lead / Architect** (technical design), **Engineering Manager** (capacity), **Design / UX** (design handoff readiness), **QA Lead / Quality Engineer** (test plan).
+
 ## Objectives
 - Break work into shippable increments
 - Identify dependencies and risks
@@ -28,7 +30,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Sprint / Iteration Planning
 - Timebox planning to agreed sprint length
 - Pull items that meet DoD and have clear acceptance criteria
-- Ensure team capacity is respected
+- Ensure team capacity is respected (confirmed with Engineering Manager)
 
 ## Risk & Dependency Management
 - Capture in Risk Register:
@@ -36,8 +38,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (all key roles present: PM, PdM, Engineering Manager, Tech Lead, Design/UX, QA Lead)
+- [ ] All roles from [Roles & Personas](octoacme-roles-and-personas.md) confirmed or noted as not applicable for this project
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted (QA Lead / Quality Engineer)
+- [ ] Design / UX handoff plan confirmed
+- [ ] Tech Lead has reviewed and approved technical approach
+- [ ] Engineering Manager has confirmed team capacity
